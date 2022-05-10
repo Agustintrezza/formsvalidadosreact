@@ -1,0 +1,32 @@
+  .navegador {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 47px;
+    column-gap: 15px;
+    height: 35px;
+    align-items: center;
+   
+    padding: 13px 0px;
+  }
+  .navitem {
+    text-decoration: none;
+    cursor: pointer;
+    letter-spacing: 3px;
+    font-size: 15px;
+    font-weight: 100;
+    text-transform: uppercase;
+  }
+  body {
+    background-color: #ecF0f3;
+  }
+  a {
+    
+    text-decoration: none;
+    cursor: pointer;
+    letter-spacing: 3px;
+    font-size: 15px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #737373;
+  }
+ 
